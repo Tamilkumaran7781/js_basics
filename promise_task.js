@@ -16,7 +16,7 @@ function isAuthenticated(username, password) {
   }
   
   const user = "exampleUser";
-  const pass = "password123";
+  const pass = "password1234";
   
   Login(user, pass)
     .then(function (message) {
